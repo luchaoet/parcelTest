@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./main.js","dynamic":true}],"generated":{"html":"<html>\r\n  <head>\r\n    <title>Parcel React Example</title>\r\n    <meta charset=\"UTF-8\">\r\n  </head>\r\n  <body>\r\n    <div id=\"app\"></div>\r\n\r\n    <script src=\"/dist/74e8560e7a4adfd1eabe7cc9637eee28.js\"></script>\r\n  </body>\r\n</html>"},"hash":"d6fd017bbc4a6111d6bfc49653407255"}
