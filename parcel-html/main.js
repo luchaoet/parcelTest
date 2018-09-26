@@ -2,5 +2,6 @@
 import classes from './index.css';
 
 export default () => {
-    console.log(classes.main);
+    // console.log(classes);
+    console.log($('#app'))
 };
