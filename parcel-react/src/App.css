@@ -13,7 +13,7 @@ body {
     sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 }
 
-div {
+#app > div {
   display: flex;
   justify-content: center;
   align-items: center;
