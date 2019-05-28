@@ -30,7 +30,18 @@ export default class App extends Component {
 
     // console.log(Reflect.ownKeys(obj))
 
-    // console.log(Reflect.enumerate(obj))
+    // console.log(Object.getPrototypeOf(obj))
+
+    var proto = {
+      foo: function(){},
+      fun: function(){}
+    }
+    var obj = {
+      a:'A',
+      b: 'B'
+    }
+    Object.setPrototypeOf(obj, proto)
+    console.log(Object.getPrototypeOf(obj))
 
 
 
